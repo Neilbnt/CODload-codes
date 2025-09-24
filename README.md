@@ -11,8 +11,11 @@ This project includes two Python codes.
 - `codload_functions.py`: Required functions to analyze a dataset with position tracking data into COD loads.
 
 **def calculate_heading** : Helper function to calculate heading based on position data
+
 **def add_heading** : Function that adds heading columns based on the position columns
+
 **def create_summary_df** : Create a DataFrame with velocity (in m/s) and heading change per second for all players.
+
 **def calculate_CODload** : Calculate COD load for all players, both overall COD load and per 15-minute interval.
 
 - `codload_analysis` presents the full analysis applied on an open-source dataset of 7 matches in the German Bundesliga (Bassek et al., 2025).
