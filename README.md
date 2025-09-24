@@ -23,9 +23,7 @@ This project includes two Python codes.
 
 ## Licence
 This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
-You must therefore give appropriate credit when using this dataset by
-
-1. Citing this publication
+You must therefore give appropriate credit when using this dataset by citing this publication.
 
 ## References
 > Bassek, M., Rein, R., Weber, H., & Memmert, D. (2025). An integrated dataset of spatiotemporal and event data in elite soccer. Sci Data, 12(1), 195. https://doi.org/10.1038/s41597-025-04505-y 
