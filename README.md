@@ -19,7 +19,7 @@ This project includes two Python codes.
 **def calculate_CODload** : Function to calculate COD load for all players, both overall COD load and per 15-minute interval.
 
 
-- `codload_analysis.py`: Code whcih presents the full analysis applied on an open-source dataset of 7 matches in the German Bundesliga (Bassek et al., 2025). This code is derived from the code used for analysis in our paper.
+- `codload_analysis.py`: Code which presents the full analysis applied on an open-source dataset of 7 matches in the German Bundesliga (Bassek et al., 2025). This code is derived from the code used for analysis in our paper.
 
 ## Licence
 This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
