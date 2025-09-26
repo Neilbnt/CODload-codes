@@ -1,6 +1,6 @@
 # Change of Direction Load in Football Players: a Validation Study in 293 Elite-Level Matches
 This is the official repository for the paper:
-> Bont, N., Den Otter, A. R., Oonk, G. A., & Brink, M. S. (2025). Change of Direction Load in Football Players: a Validation Study in 293 Elite-Level Matches. _In Sumbission._
+> Bont, N., Den Otter, A. R., Oonk, G. A., & Brink, M. S. (2025). Change of Direction Load in Football Players: a Validation Study in 293 Elite-Level Matches. _Not Sumbitted._
 
 ## Definition: Change of Direction (COD) load
 Change of direction load is a recently developed load indicator combining heading change and velocity (Merks et al., 2022). 
